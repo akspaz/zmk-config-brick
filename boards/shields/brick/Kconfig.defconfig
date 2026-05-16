@@ -1,0 +1,6 @@
+if SHIELD_BRICK
+
+config ZMK_KEYBOARD_NAME
+    default "brick"
+
+endif
